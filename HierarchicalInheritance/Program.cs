@@ -12,7 +12,7 @@ namespace HierarchicalInheritance
 
             Cat cat = new Cat();
             cat.Eat();
-            cat.Meow();
+            cat.Meow(); 
         }
     }
 }

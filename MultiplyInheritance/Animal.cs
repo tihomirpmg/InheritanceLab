@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MultiplyInheritance
 {
-    class Animal
+    class Animal 
     {
         public void Eat()
         {

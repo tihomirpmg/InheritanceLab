@@ -10,7 +10,7 @@ namespace HierarchicalInheritance
             dog.Eat();
             dog.Bark();
 
-            Cat cat = new Cat();
+            Cat cat = new Cat(); 
             cat.Eat();
             cat.Meow(); 
         }

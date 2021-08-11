@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MultiplyInheritance
 {
-    class Dog:Animal
+    class Dog:Animal 
     {
         public void Bark()
         {

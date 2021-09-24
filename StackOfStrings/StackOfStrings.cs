@@ -6,7 +6,7 @@ namespace StackOfStrings
 {
     class StackOfStrings
     {
-        private List<string> st;
+        private List<string> st; 
         public StackOfStrings()
         {
             st = new List<string>();

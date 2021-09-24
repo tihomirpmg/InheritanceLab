@@ -3,7 +3,7 @@
 namespace StackOfStrings
 {
     class Program
-    {
+    { 
         static void Main(string[] args)
         {
             StackOfStrings stack = new StackOfStrings();

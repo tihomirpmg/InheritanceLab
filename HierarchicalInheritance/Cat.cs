@@ -4,7 +4,7 @@ using System.Text;
 
 namespace HierarchicalInheritance
 {
-    class Cat:Animal
+    class Cat:Animal 
     {
         public void Meow()
         {

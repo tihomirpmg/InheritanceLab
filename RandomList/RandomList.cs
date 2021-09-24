@@ -4,7 +4,7 @@ using System.Text;
 
 namespace RandomList
 {
-    class RandomList:List<string>
+    class RandomList:List<string> 
     {
         private Random random;
         public RandomList()

@@ -6,7 +6,7 @@ namespace HierarchicalInheritance
 {
     class Dog:Animal
     {
-        public void Bark()
+        public void Bark() 
         {
             Console.WriteLine("barking...");
         }
